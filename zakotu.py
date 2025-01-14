@@ -10,3 +10,8 @@ def calculate_sum(numbers):
 
 # 合計を表示
 print("合計:", calculate_sum(numbers))
+
+
+
+
+print('雑魚乙ｗｗｗｗ')
